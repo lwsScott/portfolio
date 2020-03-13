@@ -1,0 +1,43 @@
+#main {
+    background-color: beige;
+    padding: 1em 5em 3em 5em;
+}
+h1 {
+    color: darkgreen;
+    font-size: 200%;
+}
+fieldset {
+    border: solid 1px darkgreen;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+input {
+    padding: 12px 20px;
+    margin:  8px 0;
+}
+label
+{
+    padding: 12px 20px;
+}
+
+legend {
+    color: darkgreen;
+    font-variant: small-caps;
+}
+.btn {
+    background-color: darkgreen;
+}
+body {
+    margin: 0px 200px;
+}
+body {
+    background-color: darkgoldenrod;
+}
+.err {
+    color: darkred;
+    visibility: hidden;
+}
+
+.err-login {
+    color: darkred;
+}
